@@ -4,7 +4,9 @@ a{
 }
 /*----------------first-page*/
 section.first_page{
+    display: block;
     background: #FCB425;
+    height: 300px;
 }
 section.first_page ul{
     display: flex;
@@ -26,16 +28,18 @@ button{
     position: relative;
     top: 20px;
     left: 40px;
-    vertical-align:
 }
+/*----------section.link_portafolio*/
 .link_portafolio{
     text-align: center;
+    vertical-align: middle;
 }
 .link_portafolio a{
     display: inline-block;
     margin: 0 auto;
-    margin: 20% 0;
+
 }
+/*-------END---section.link_portafolio*/
 /*-------------END---first-page*/
 /*----------------portafolio*/
 section.portafolio{
