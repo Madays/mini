@@ -47,7 +47,7 @@ section.portafolio{
 }
 section.portafolio .col-md-6{
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 section.portafolio img{
     background: purple;
@@ -57,7 +57,7 @@ section.portafolio .col-md-6 a{
     display: inline-block;
     margin: 5px;
     color: #333;
-    background: gold;
+    background: #FCB425;
     cursor: pointer;
 }
 section.portafolio p{
@@ -65,7 +65,7 @@ section.portafolio p{
     margin-bottom: 0;
 }
 section.portafolio a:hover{
-    padding: 5px;
+    color: #fff;
 }
 /*-------------END---portafolio*/
 /*----------------footer*/
